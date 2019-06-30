@@ -86,21 +86,21 @@ The recall focuses on how many users we expected to churn that actually churn ta
 The f1 score takes into consideration both precision and recall.
 
 The model evaluations without applying the cross-validation are as follows:
-Accuracy: 84.20%
-wightedPrecision: 86.71%
-weightedRecall: 84.20%
-f(1): 77.30%
+- Accuracy: 84.20%
+- wightedPrecision: 86.71%
+- weightedRecall: 84.20%
+- f(1): 77.30%
 
 The model evaluations after applying the cross-validation are as follows:
-Accuracy: 87.20%
-wightedPrecision: 88.46%
-weightedRecall: 87.20%
-f(1): 83.56%
+- Accuracy: 87.20%
+- wightedPrecision: 88.46%
+- weightedRecall: 87.20%
+- f(1): 83.56%
 
 The AWS EMR accuracy of the cross-validated model are as follows:
-Accuracy: 87.20%
-wightedPrecision: 88.46%
-weightedRecall: 87.20%
-f(1): 83.56%
+- Accuracy: 87.20%
+- wightedPrecision: 88.46%
+- weightedRecall: 87.20%
+- f(1): 83.56%
 
 The model applied here, is a well-balanced model that takes into consideration false positives and false negatives. So we are ready to start providing recommendations to the respective team in charge of user retention.
