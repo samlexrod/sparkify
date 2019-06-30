@@ -97,10 +97,4 @@ The model evaluations after applying the cross-validation are as follows:
 - weightedRecall: 87.20%
 - f(1): 83.56%
 
-The AWS EMR accuracy of the cross-validated model are as follows:
-- Accuracy: 87.20%
-- wightedPrecision: 88.46%
-- weightedRecall: 87.20%
-- f(1): 83.56%
-
 The model applied here, is a well-balanced model that takes into consideration false positives and false negatives. So we are ready to start providing recommendations to the respective team in charge of user retention.
