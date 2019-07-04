@@ -99,7 +99,7 @@ The model evaluations after applying the cross-validation are as follows:
 - weightedRecall: 87.20%
 - f(1): 83.56%
 
-The model applied here, is a well-balanced model that takes into consideration false positives and false negatives. So we are ready to start providing recommendations to the respective team in charge of user retention.
+The model applied here is a well-balanced model that takes into consideration false positives and false negatives. So we are ready to start providing recommendations to the respective team in charge of user retention.
 
 # Reflection
 The problem here is that we want to know when users are about to leave the services. We want to retain these users because lossing them means lossing revenue due to the advertising channel or the paid service channel.hence, the marketing department will be interested in this results. It was interesting to think about this issue in the perspective of a cloud engineer, data engineer, and data scientist. Thinking on the limitations that my current infracstucutre will face and solving the big data issue using the AWS EMR clusters is an important aspect of a data scientist job.  
