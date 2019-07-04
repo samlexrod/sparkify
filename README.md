@@ -4,6 +4,7 @@ I chose this project since it would give me the experience I need to apply big d
 # Packages used:
     pyspark
     datetime
+    pandas
     
 This is the import statement:
 ```python
@@ -13,6 +14,7 @@ findspark.init()
 
 # Pre-processing packages
 import datetime
+import pandas as pd
 from pyspark.sql import SparkSession
 from pyspark.sql.functions import udf, desc, col, max as scala_max, sum as scala_sum, split as scala_split
 from pyspark.sql.functions import size as scala_len
