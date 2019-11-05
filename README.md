@@ -1,5 +1,5 @@
 # Sparkify:
-I chose this project since it would give me the experience I need to apply big data techniues in my current job. We currently use AWS as our cloud infracstructure so I saw the benefits of it. The experience gained so far are far beyong what I was expecting.
+I chose this project since it would give me the experience I need to apply big data techniques in my current job. We currently use AWS as our cloud infracstructure so I saw the benefits of it. The experience gained were far beyong what I was expecting.
 
 # Packages used:
     pyspark
